@@ -1,0 +1,21 @@
+{
+    "name": "@pierreminiggio/sass-helpers",
+    "version": "1.0.0",
+    "description": "SASS Helpers",
+    "sass": "sass/main.scss",
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/pierreminiggio/sass-helpers.git"
+    },
+    "author": "Pierre MINIGGIO",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/pierreminiggio/sass-helpers/issues"
+    },
+    "homepage": "https://github.com/pierreminiggio/sass-helpers#readme",
+    "dependencies": {},
+    "devDependencies": {},
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    }
+  }
